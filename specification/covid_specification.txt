@@ -1,0 +1,19 @@
+The data is scrapped from Romanian official communication source, MAI (Internal Affairs Ministry of Romania).
+
+Every day, the Romanian authorities are publishing the county-level data for Confirmed cases.
+
+Additionally, I am collecting the following data, also published daily by Romanian authorities:
+
+Total number of quarantined people (Country level); this is the current day value;
+
+Total number of voluntary isolated people (Country level); this is the current day value;
+
+Total number of people in Intensive Care Unit (ICU, ATI in Romanian) (Country level); this is the current day value;
+
+Total number of tests (Country Level); this is the daily value;
+
+Total number of Confirmed cases (Country level); this is a cumulative value.
+
+Total number of Recovered cases (Country level); this is a cumulative value.
+
+Total number of Deaths (Country level); this is a cumulative value.

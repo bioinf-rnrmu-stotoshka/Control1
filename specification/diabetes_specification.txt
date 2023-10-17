@@ -1,0 +1,12 @@
+The dataset contains information on the prevalence of diabetes mellitus (DM) in adults aged 18 years and older across various countries. 
+The data was published in The Lancet medical journal in 2016 and is based on estimates from 
+the Non-Communicable Disease Risk Factor Collaboration (NCD-RisC).
+
+The dataset includes crude estimates of DM prevalence as a percentage of the adult population in each country, 
+along with corresponding 95% uncertainty intervals (UI). 
+The estimates are based on data from population-based studies, national health surveys, and other sources, 
+and were adjusted for differences in age and sex distribution.
+
+The dataset covers 199 countries and territories, and the estimates are presented for both sexes combined as well 
+as separately for males and females. The data was collected between 1980 and 2014, 
+and the estimates are reported for different time periods within this range.
